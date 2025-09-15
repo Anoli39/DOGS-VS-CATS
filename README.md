@@ -18,7 +18,7 @@ This project demonstrates a complete workflow of a machine learning project:
 | **VGG16 (Feature Extraction)** | ~92% | Leveraged pre-trained features |
 | VGG16 (Fine-Tuned)| ~98% | Best performance, Adapted pre-trained knowledge |
 
-![Training History]((https://github.com/Anoli39/DOGS-VS-CATS/blob/main/assets/feature_extractor_training_history.png)) *Example of training curves*
+![Training History](assets)) *Example of training curves*
 
 ## 🛠 Tech Stack
 
