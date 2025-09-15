@@ -1,0 +1,32 @@
+# 忽略虚拟环境相关文件
+catdog_env/
+catalog_env/
+[Ee]nv/
+[Vv]env/
+
+# 忽略Python缓存和发行版文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# 忽略数据集和模型文件（这些太大且容易重新生成）
+dogs-vs-cats/
+*.h5
+*.hdf5
+output/
+*.jpg
+*.png
+
+# 忽略IDE和编辑器配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
