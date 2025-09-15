@@ -10,7 +10,7 @@ This project demonstrates a complete workflow of a machine learning project:
 3.  Advanced Models: Applying Transfer Learning with VGG16 (Feature Extraction & Fine-Tuning).
 4.  Comparison: Evaluating and comparing the performance of all three models.
 
-## 📊 Results
+##  Results
 
 | Model | Validation Accuracy | Key Features |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ This project demonstrates a complete workflow of a machine learning project:
 
 ![Training History](./assets/training_curve.png) *Example of training curves*
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Python**
 - **TensorFlow / Keras**
@@ -28,7 +28,7 @@ This project demonstrates a complete workflow of a machine learning project:
 - **NumPy, Matplotlib**
 - **Google Colab / Jupyter Notebook** (optional)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 dog-vs-cat-classification/
@@ -44,7 +44,7 @@ dog-vs-cat-classification/
 └── README.md
 ```
 
-## 🏃‍♂️ How to Run
+##  How to Run
 
 1.  **Get the Data**:
     Download the dataset from [Kaggle: Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data) and extract it into the project root.
@@ -71,9 +71,8 @@ dog-vs-cat-classification/
     python compare_models.py
     ```
 
-## 👨‍💻 Author
-
-[Your Name] - [Link to your GitHub profile]
+##  Author
+Anoli39
 
 ## 📄 License
 
